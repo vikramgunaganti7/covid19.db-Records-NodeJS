@@ -1,3 +1,7 @@
+![image](https://github.com/vikramgunaganti7/covid19.db-Records-NodeJS/assets/121219651/6ac54cdf-52b1-4a7b-b895-6a2cdf19cb37)
+
+
+
 # Covid-19 India
 
 Given two files `app.js` and a database file `covid19India.db` consisting of two tables `state` and `district`.
